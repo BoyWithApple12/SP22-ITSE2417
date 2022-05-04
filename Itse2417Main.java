@@ -52,7 +52,7 @@ public class Itse2417Main
             new FinalProj(),          // Gilhespy
             new FinalProj(),          // Hankins
             new FinalProj(),          // Hernandez
-            new FinalProj(),          // Kline
+            new JacobFinal(),          // Kline
             new FinalProj(),          // Koranda
             new FinalProj(),          // Pokluda
             new FinalProj(),          // Rascon
